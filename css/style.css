@@ -1,7 +1,14 @@
 h1 {
-        
+
 }
 
 h2 {
     text-align : center;
 }
+
+.block {
+    display : flex;
+    align-items : flex-start;
+    font-size : 30px;
+}
+
